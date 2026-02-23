@@ -18,13 +18,13 @@
 
 |  | 날짜 | 난이도 | 문제번호 | 문제 | 메모리 | 시간 | 풀이 | 비고 |
 | :---: | :---: | :---: | :--- | :---: | :---:  | :---: | :---: | :--- |
-| 01 | 2026.02.19 |  <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | 108384KB | 92ms |  [Analysis]([이슈링크](https://github.com/S202010741/Coding-Test-Study/issues/1)) / [Code]([파일링크](https://github.com/S202010741/Coding-Test-Study/blob/9842fb1c06d9e27b05e90a04c612d4fcf9a97d2f/BOJ/boj_1629.py)) | 🏆 **Rank 42nd** |
+| 01 | 2026.02.19 |  <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | 108384KB | 92ms |  [Analysis](https://github.com/S202010741/Coding-Test-Study/issues/1) / [Code](https://github.com/S202010741/Coding-Test-Study/blob/9842fb1c06d9e27b05e90a04c612d4fcf9a97d2f/BOJ/boj_1629.py) | 🏆 **Rank 42nd** |
 
 
 ## 📝 분석 리포트
-| 문제번호 | 커밋번호 | 분석 리포트 | 
+| 문제번호 | 이슈번호 | 분석 리포트 | 
 | :---: | :---: |:---: |
-| 1629 | #1 | [#1 [BOJ] 1629번 곱셈 상세 분석]([커밋주소링크](https://github.com/S202010741/Coding-Test-Study/commit/9842fb1c06d9e27b05e90a04c612d4fcf9a97d2f))
+| 1629 | #1 | [[BOJ] 1629번 곱셈 상세 분석](https://github.com/S202010741/Coding-Test-Study/commit/9842fb1c06d9e27b05e90a04c612d4fcf9a97d2f)
 
 ---
 _Every commit is a step toward better performance._
