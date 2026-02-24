@@ -19,8 +19,8 @@ assignees: ''
 - **입력 전략:** [사용할 핵심 함수에 대한 정의]
 
 ## 💻최종 코드 리뷰
-Commit : [`커밋해시코드`](https://github.com/S202010741/Coding-Test-Study/commit/[해시커밋코드])
-보기** : [Browse File](https://github.com/S202010741/Coding-Test-Study/blob/[해시커밋코드]/BOJ/boj_[문제번호].py)
+- **Commit** : [`커밋해시코드`](https://github.com/S202010741/Coding-Test-Study/commit/[해시커밋코드])
+- **보기** : [Browse File](https://github.com/S202010741/Coding-Test-Study/blob/[해시커밋코드]/BOJ/boj_[문제번호].py)
 
 ```사용언어
 
@@ -37,6 +37,7 @@ Commit : [`커밋해시코드`](https://github.com/S202010741/Coding-Test-Study/
 ## 📈 최적화 요약
 > 이 문제는 총 **[시도 횟수]번의 시도**를 통해 성능을 극한으로 끌어올렸습니다.
 1️⃣2️⃣3️⃣4️⃣5️⃣
+
 1️⃣ 
 => 🚨런타임 에러🚨 발생
 
